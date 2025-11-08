@@ -53,8 +53,6 @@ Coloca tus archivos de datos fuente en el directorio `/data`:
 * `data/customers.csv`
 * `data/products.csv`
 
-(Puedes incluir datos de *ejemplo* anónimos y pequeños en tu repositorio para que la gente pueda probarlo).
-
 ### 4. Ejecutar el Pipeline
 
 Para ejecutar el proceso ETL completo, corre el script `main.py`:
